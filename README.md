@@ -1,2 +1,2 @@
 # OIBSIP_TASK2
-Oasis Infobyte internship task 1 : Portfolio Website
+Oasis Infobyte internship task 2 : Portfolio Website
